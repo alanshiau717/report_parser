@@ -1,2 +1,2 @@
-PATH = "/Users/alanshiau/Documents/Repos/report_parser/Data"
+PATH = "C:/Users/alans/Documents/Repos/report_parser/Data"
 
